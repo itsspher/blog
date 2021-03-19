@@ -6,14 +6,27 @@
       {
         "id": "6d22171fc13a814c",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "index.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "4fdb3dceb5dfc028"
+      },
+      {
+        "id": "3af01742d4346007",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        },
+        "group": "4fdb3dceb5dfc028"
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -94,6 +109,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "index.md",
+    "2020-10-05-learning-should-be-hard.md",
+    "2020-09-28-a-golden-rule-for-audio-on-the-internet.md",
+    "2020-09-27-on-moddable-games.md",
+    "2020-09-23-a-year-later.md",
+    "2019-10-19-reddit-resources.md",
+    "2019-09-30-new-blog-and-a-blog-script.md",
+    "now.md",
     "Untitled.md"
   ]
 }
