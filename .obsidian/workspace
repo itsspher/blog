@@ -6,6 +6,7 @@
       {
         "id": "6d22171fc13a814c",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +19,6 @@
       {
         "id": "3af01742d4346007",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -110,6 +110,7 @@
   },
   "lastOpenFiles": [
     "index.md",
+    "2020-10-20-take-ownership-of-your-learning.md",
     "2020-10-05-learning-should-be-hard.md",
     "2020-09-28-a-golden-rule-for-audio-on-the-internet.md",
     "2020-09-27-on-moddable-games.md",
